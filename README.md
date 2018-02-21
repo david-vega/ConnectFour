@@ -1,4 +1,4 @@
-# ConnectFour
+# ConnectFour [![Build Status](https://travis-ci.org/david-vega/ConnectFour.svg?branch=master)](https://travis-ci.org/david-vega/ConnectFour)
 
 Ruby command line Connect Four Game
 
